@@ -1,0 +1,17 @@
+DL is a subfield of AI and ML that is inpired by the structure of a human brain.
+DL algorithms attempt to draw similar conclusions as humans would by continually analyzing data with a given logical structue called Neural Networks.
+ML algorithms focus on statistical techniques to get the relation between input and output whereas DL depends upon a logical structure called neural network.
+Artificial neural netwrk is the most fundamental neural network whose most fundamental unit is perceptron(the nodes) which are connected by the arrows called weights.
+The perceptron present in a single line are called layers.
+The layer where we get i/p is called i/p layer and the other is called o/p layer.Rest are called hidden layers.Deep learning name comes from the hidden layer,if the 
+number of hidden layers are much,then the whole networks become deep.
+
+ANN,CNN,RNN,GAN
+
+why so famous?
+1)Applicable in many fields
+2)Performance
+
+DL is a part of a broader family of ML methods based on artificial neural networks with representative learning.
+DL algorithms uses multiple layers to progressively extract higher level features from raw input.For eg:-in image processing,lower layers may identify edges,while higher layers
+may identify the concepts relevant to a human such as digits or letters or faces.
