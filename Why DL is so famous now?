@@ -1,0 +1,19 @@
+Why famous?
+-->Datasets:-DL is data hungry.Around 2015,two revolutions came-(i)smartphone revolution (ii)Internet pricing revolution.On daily basis huge amount of data got generated.
+             Now,big companies converted the unlabelled data to the labelled data.They converted the dataset to public dataset,can be accessed by anyone.
+             eg:-Microsoft COCO is a dataset of images.
+                 Youtube 8M dataset contains videos
+                 SQUAD-dataset of texts from wikipedia
+                 GOOGLE AUDIOSET-dataset of audios from google
+                 
+-->Frameworks/Libraries=>Tensorflow by google,Pytorch by facebook
+-->Architecture of the models:-ANN(node and edges(weights))A different nural networks have less nodes and different edges connection.In ANN,there the node is called 
+                               perceptron.Different neural networks architecture can be created.Researchers have already made some neural networks and trained as well,we
+                               download the architecture and use it.This is called transfer learning.
+-->hardware:-Matrix operation->GPU required
+-->community
+
+Pytorch to tensorflow conversion:-drop down gui based application for conversion.
+image classification-->RESNET neural network
+Text Classification-->BERT neural network
+Image segmentation-->UNETV nn
