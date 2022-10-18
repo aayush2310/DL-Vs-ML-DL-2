@@ -1,0 +1,12 @@
+1)Data Dependency:-DL requires more data than ML.At less data ML is better and at high data DL is better.
+
+2)Hardware Dependency:-ML models can be trained on our computer on the CPU but in DL heavy matrix multiplication goes on which requires GPU,run slow on CPU.
+
+3)Training Time:-DL models are complex,so model training time is high.Prediction time is fast in DL,whereas in some ML model like KNN,prediction time is slow.
+
+4)Feature Selection:-DL algos automatically extract relevent features from the data,whereas in ML model we need to manually extract those features.
+
+5)Interpretability:-It is very low in case of DL and high in case of ML.eg:-If i want to make a DL model so that it bans people based on the comments made by them,then 
+DL model will ban or not ban on the basis of its criteria but it will not tell the reason why the person was banned,but it is not so in ML.
+eg:-in case of decision tree algo in ML,we can explain why a point was called 1 and other 0 based on the basis of branching.
+Due to this reason in some cases ML is better than DL.
